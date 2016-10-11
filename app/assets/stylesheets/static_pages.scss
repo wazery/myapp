@@ -1,5 +1,28 @@
-h1 {
+h1, h2 {
   font-family: monospace;
-  color: blue;
   text-align: center;
+}
+
+h1 {
+  padding-top: 6%;
+}
+
+.mynav {
+  color: white;
+  font-family: monospace;
+  letter-spacing: 0.2em;
+}
+
+.photo {
+  margin: 0 auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+footer {
+  background-color: black;
+}
+
+.foot {
+  color: white;
 }
